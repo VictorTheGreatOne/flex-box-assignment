@@ -1,0 +1,16 @@
+#parent-div {
+    background-color: yellow;
+    width: 200px;
+}
+.child-div {
+    width: 50px;
+    background-color: brown;
+
+}
+.flex-container {
+   
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
